@@ -1,7 +1,7 @@
 // Tek bir arkadaş için özel bilgiler
 const arkadas = {
     ad: "Aroş mami", 
-    unvan: "Efsane Unvanı / Açıklaması (Örn: Goat of the gourmets)", 
+    unvan: "Goat of the gourmets", 
     foto: "aroş.png" // Klasöre attığın fotoğrafın tam adı
 };
 
